@@ -16,3 +16,5 @@ rootProject.name = "BasicPractice"
 include ':app'
 include ':loginpractice'
 include ':fragmentpractice'
+include ':appbarnavigationviewpractice'
+include ':appbarpractice'

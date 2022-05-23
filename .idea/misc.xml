@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/fragment_one.xml" value="0.7351973684210527" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/fragment_three.xml" value="0.1" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/fragment_two.xml" value="0.1" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/item_recyclerview.xml" value="0.20244565217391305" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/navigation_header.xml" value="0.20244565217391305" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/menu/menu_navigation.xml" value="0.25" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarpractice/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarpractice/src/main/res/menu/menu_appbar_practice.xml" value="0.25" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/fragmentpractice/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1475" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/fragmentpractice/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/fragmentpractice/src/main/res/layout/fragment_chatlist.xml" value="0.20244565217391305" />
