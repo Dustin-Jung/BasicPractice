@@ -16,6 +16,9 @@
             <option value="$PROJECT_DIR$/appbarpractice" />
             <option value="$PROJECT_DIR$/fragmentpractice" />
             <option value="$PROJECT_DIR$/loginpractice" />
+            <option value="$PROJECT_DIR$/simplecalculator" />
+            <option value="$PROJECT_DIR$/tabbuttonpractice" />
+            <option value="$PROJECT_DIR$/todolistpractice" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
