@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/actionbarpractice/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
+        <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/actionbarpractice/src/main/res/menu/menu_test.xml" value="0.25" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/fragment_one.xml" value="0.7351973684210527" />
         <entry key="..\:/App/Ws/AndroidStudio/BasicPractice/appbarnavigationviewpractice/src/main/res/layout/fragment_three.xml" value="0.1" />
